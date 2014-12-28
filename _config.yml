@@ -1,0 +1,7 @@
+baseurl: /blog
+markdown: rdiscount
+permalink: /:title/
+pygments: true
+safe: true
+author: danihao123
+about: "danihao123的个人博客"
